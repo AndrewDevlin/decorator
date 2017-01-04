@@ -2,11 +2,21 @@
   width: 33%;
   float: left;
 }
-
 img{
   width: 100%
 }
 
-body{
-  background-color: 00ff341;
+
+
+.spot{
+  background-color: pink;
+  border: 10px green;
+}
+
+.lot{
+  background-color: purple;
+}
+
+.dot{
+  background-color: yellow;
 }
